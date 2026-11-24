@@ -22,5 +22,11 @@ Este repositório tem **só a tradução e as ferramentas**. Ele não tem a ISO 
 - `build.py`: aplica as falas traduzidas nos `.gvx` extraídos da ISO
 - `elfpatch.py`: troca os textos de menu no executável `SLPS_252.87`
 - `PROMPT.md`: glossário e regras de estilo usadas na tradução
+- `aplicar_traducao.ps1` / `APLICAR.bat`: grava os arquivos traduzidos (pasta `arquivos/`) numa **cópia** da ISO japonesa e gera `Hajime no Ippo 2 - Victorious Road (PT-BR).iso`. A ISO original não é alterada.
+
+## Prints
+![Botões SIM/NAO](prints/1_botoes_sim_nao.jpg)
+![Novo jogo](prints/2_novo_jogo.jpg)
+![Diálogo](prints/3_dialogo.jpg)
 
 Testado no PCSX2 2.x.
