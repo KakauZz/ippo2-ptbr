@@ -1,0 +1,7 @@
+*.iso
+*.gvx
+*.GVX
+*.OVR
+*.PKT
+SLPS_*
+__pycache__/
